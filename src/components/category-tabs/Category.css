@@ -1,0 +1,15 @@
+.category {
+    margin: 5px;
+    padding: 5px;
+    height: 100px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.category h1 {
+    color: white;
+    margin-top: 30px;
+}

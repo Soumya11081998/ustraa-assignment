@@ -1,0 +1,8 @@
+.outOfStockButton .button {
+    background-color: rgb(179, 179, 179);
+    padding: 10px 40px;
+    border-radius: 2px;
+    width: 200px;
+    border: transparent;
+    color: white;
+}

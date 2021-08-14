@@ -1,0 +1,8 @@
+.addButton .button {
+    background-color: rgb(88, 214, 88);
+    padding: 10px 40px;
+    border-radius: 2px;
+    width: 200px;
+    border: transparent;
+    color: white;
+}

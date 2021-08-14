@@ -1,0 +1,40 @@
+.product {
+    display: flex;
+    border-bottom: 2px solid rgb(196, 196, 196);
+    padding: 10px;
+}
+
+.product .details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.product .details .top {
+    position: relative;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product .details .top .name {
+    width: 30vw;
+}
+
+.product .details .top .rate {
+    margin: 15px 20px;
+}
+
+.product .details .price {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.product .details .price .oldPrice {
+    text-decoration: line-through;
+    text-decoration-style: solid;
+    margin-left: 10px;
+}
